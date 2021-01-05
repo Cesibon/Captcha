@@ -1,8 +1,8 @@
 {
     "name": "entelekia/captcha",
-    "description": "A simple PHP CAPTCHA script",
-    "version": "1.0.1",
-    "homepage": "http://www.abeautifulsite.net/",
+    "description": "CAPTCHA script forked from https://github.com/yasirmturk/simple-php-captcha",
+    "version": "1.0",
+    "homepage": "http://entelekia.fr",
     "license": "MIT",
     "autoload": {
         "psr-4": {
