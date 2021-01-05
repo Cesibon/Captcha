@@ -1,0 +1,12 @@
+{
+    "name": "entelekia/captcha",
+    "description": "A simple PHP CAPTCHA script",
+    "version": "1.0.1",
+    "homepage": "http://www.abeautifulsite.net/",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Captcha\\": "src"
+        }
+    }
+}
